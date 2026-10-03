@@ -1,0 +1,3 @@
+Model,AUC_original_features,AUC_with_new_features,Std
+Logistic Regression,0.5764,0.5816,0.0552
+Random Forest,0.5797,0.5693,0.0487

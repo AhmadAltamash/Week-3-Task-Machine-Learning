@@ -1,0 +1,16 @@
+Linkage,K,Silhouette,Cophenetic,Smallest_cluster
+ward,2,0.2957,0.5191,193
+ward,3,0.192,0.5191,140
+ward,4,0.1573,0.5191,63
+ward,5,0.1565,0.5191,63
+ward,6,0.1608,0.5191,50
+complete,2,0.3022,0.5395,115
+complete,3,0.1694,0.5395,115
+complete,4,0.1328,0.5395,21
+complete,5,0.1387,0.5395,21
+complete,6,0.1117,0.5395,21
+average,2,0.356,0.6343,16
+average,3,0.201,0.6343,1
+average,4,0.2145,0.6343,1
+average,5,0.1853,0.6343,1
+average,6,0.1681,0.6343,1

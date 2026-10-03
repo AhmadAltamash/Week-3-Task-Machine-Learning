@@ -1,0 +1,5 @@
+Model,Combinations,Best_params,Best_CV_ROC_AUC
+Logistic Regression,5,{'model__C': 0.01},0.5938
+PCA + Logistic Regression,15,"{'model__C': 1, 'pca__n_components': 4}",0.594
+Random Forest,16,"{'model__max_depth': 2, 'model__min_samples_leaf': 20}",0.5915
+KNN,5,{'model__n_neighbors': 41},0.5837
